@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'Lexend Deca';
+    src: url('../../fonts/LexendDeca-Regular.eot');
+    src: url('../../fonts/LexendDeca-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/LexendDeca-Regular.woff2') format('woff2'),
+        url('../../fonts/LexendDeca-Regular.woff') format('woff'),
+        url('../../fonts/LexendDeca-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Tilt Neon';
+    src: url('../../fonts/TiltNeon-Regular.eot');
+    src: url('../../fonts/TiltNeon-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/TiltNeon-Regular.woff2') format('woff2'),
+        url('../../fonts/TiltNeon-Regular.woff') format('woff'),
+        url('../../fonts/TiltNeon-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'Archivo';
+    src: url('../../fonts/ArchivoBlack-Regular.eot');
+    src: url('../../fonts/ArchivoBlack-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../../fonts/ArchivoBlack-Regular.woff2') format('woff2'),
+        url('../../fonts/ArchivoBlack-Regular.woff') format('woff'),
+        url('../../fonts/ArchivoBlack-Regular.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+.Home{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 200px 50px;
+}
+.ops404{
+    font-size: 150px; 
+    font-family: 'Archivo';
+}
+.ops{
+    font-size: 50px;
+    font-family: 'Lexend Deca';
+}
+.btn{
+    padding: 10px 20px ;
+    color: white;
+    font-family: 'Lexend Deca';
+    border: none;
+    background-color: rgb(0, 110, 255);
+    border-radius: 10px ;
+    margin: 10px;
+}
+.telegram{
+    color: #fff;
+    background-color: transparent;
+}
+#link{
+    text-decoration: none;
+}
+#tg{
+    text-decoration: none;
+    color: #fff;
+}

@@ -1,0 +1,101 @@
+export const team = [
+    {
+        id: 1,
+        img: 'john.jpg',
+        name: 'John Doe',
+        job: 'CEO & Founder',
+    },
+    {
+        id: 2,
+        img: 'john2.jpg',
+        name: 'Doeman',
+        job: 'Figma Designer',
+    },
+    {
+        id: 3,
+        img: 'john3.jpg',
+        name: 'Alexis Dran',
+        job: 'Fullstack Dev',
+    },
+    {
+        id: 4,
+        img: 'john.jpg',
+        name: 'Leanard Fer',
+        job: 'Backend Dev',
+    },
+]
+export const work = [
+    {id:1, img: 'iwatch.jpg'},
+    {id:1, img: 'macbook.jpg'},
+    {id:1, img: 'ballon.jpg'},
+    {id:1, img: 'poster.jpg'},
+]
+export const priece = [
+    {
+        id: 1,
+        title: 'Recommended',
+        per: '3 month',
+        priece: '39$',
+        featureA: 'High Quality',
+        featureB: 'Free Workers',
+        featureC: 'Permanent Job',
+        featureD: 'Many Salary',
+        featureF: 'Bonus Day',
+    },
+    {
+        id: 2,
+        title: 'Standard',
+        per: '3 month',
+        priece: '59$',
+        featureA: 'High Quality 1st week',
+        featureB: 'Free Workers for you',
+        featureC: 'Permanent Job ',
+        featureD: 'Many Salary Early',
+        featureF: 'Bonus Gift eveyyear',
+    },
+    {
+        id: 3,
+        title: 'Premium',
+        per: '3 month',
+        priece: '79$',
+        featureA: 'High Quality 1st week',
+        featureB: 'Free Workers for you',
+        featureC: 'Your Comfort Office',
+        featureD: 'Many Salary Early',
+        featureF: 'Bonus Gift eveyyear',
+    },
+    {
+        id: 3,
+        title: 'Ultimate',
+        per: '3 month',
+        priece: '99$',
+        featureA: 'High Quality 1st week',
+        featureB: 'Free Workers for you',
+        featureC: 'Permanent Job ',
+        featureD: 'Many Salary Early',
+        featureF: 'Bonus Gift eveyyear',
+    },
+]
+export const product = [
+    {
+        id: 1,
+        img: 'ix.png',
+        name: 'Iphone X',
+        priece: '220.',
+        pricSmall:'98',
+    },
+    {
+        id: 2,
+        img: 'airpods.png',
+        name: 'iPods 18',
+        priece: '11.',
+        pricSmall:'98',
+    },
+    {
+        id: 3,
+        img: 'iwatch.png',
+        name: 'iWatch Ultra',
+        priece: '120.',
+        pricSmall:'98',
+    },
+]
